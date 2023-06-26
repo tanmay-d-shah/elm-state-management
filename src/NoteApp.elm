@@ -1,4 +1,4 @@
-module NoteApp exposing (..)
+module NoteApp exposing (main)
 
 import Browser
 import Category exposing (Category)
